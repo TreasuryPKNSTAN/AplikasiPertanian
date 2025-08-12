@@ -1,4 +1,4 @@
-!(Screenshot GUI AgriHub)[images/screenshot.jpg]
+![Screenshot GUI AgriHub](images/screenshot.jpg).
 # AgriHub Pro
 
 Aplikasi pertanian real-time untuk membantu petani dan pelaku agribisnis dengan Vite + React + Tailwind.
