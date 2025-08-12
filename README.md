@@ -1,6 +1,6 @@
 # AgriHub Pro
 
-Aplikasi pertanian serba-ada untuk petani dan pelaku agribisnis — siap jalan dengan Vite + React + Tailwind.
+Aplikasi pertanian serba-ada dan real-time untuk petani dan pelaku agribisnis dengan Vite + React + Tailwind.
 
 ## Fitur
 - Cuaca realtime (Open‑Meteo) + indikasi risiko hama (heuristik)
@@ -8,7 +8,7 @@ Aplikasi pertanian serba-ada untuk petani dan pelaku agribisnis — siap jalan d
 - Harga pasar (Mock/Live via API Anda)
 - Koneksi pembeli (localStorage/Webhook)
 
-## Mulai Cepat
+## Cara Mulai Cepat
 ```bash
 npm install
 npm run dev
